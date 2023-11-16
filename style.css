@@ -1,0 +1,37 @@
+.button{
+    border: 1px;
+    background-color: orange;
+    border-radius: 20%;
+    height: 50px;
+    width: 90px;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    border: 200px solid darkblue;
+    border-top: 0px; 
+    background-color: aqua;  
+    padding: 0px;
+    border-bottom: 30px;
+
+}
+p{
+    padding: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#Firstname{
+
+    background-color: white;
+
+}
+#lastname{
+
+    background-color: white;
+
+}
+#email{
+     background-color: white;
+ }
+
+
